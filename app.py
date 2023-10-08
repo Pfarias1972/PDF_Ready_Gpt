@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 import os
 
 # Sua chave de API da OpenAI
-openai_api_key = "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"
+openai_api_key = "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"
 
 # Defina a função add_vertical_space
 
